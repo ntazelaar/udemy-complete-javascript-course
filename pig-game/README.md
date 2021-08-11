@@ -1,3 +1,3 @@
-# Pig Game 
+### Pig Game 
 
-[Live demo](https://nta-pig-game.netlify.app/)
+**[Live demo](https://nta-pig-game.netlify.app/)**
